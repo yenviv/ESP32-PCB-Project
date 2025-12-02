@@ -1,5 +1,6 @@
 (sym_lib_table
   (version 7)
-  (lib (name "ESP32-S3-MINI-1-N8")(type "KiCad")(uri "${PROJECT_FILES}/ESP32_S3_MINI_1_N8/ESP32-S3-MINI-1-N8.kicad_sym")(options "")(descr ""))
-  (lib (name "2025-12-02_02-43-39")(type "KiCad")(uri "${PROJECT_FILES}/ESD7104MUTAG/2025-12-02_02-43-39.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-S3-MINI-1-N8")(type "KiCad")(uri "${PROJECT_FILES}/Symbol/ESP32-S3-MINI-1-N8.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV75801PDRVR")(type "KiCad")(uri "${PROJECT_FILES}/Symbol/TLV75801PDRVR.kicad_sym")(options "")(descr ""))
+  (lib (name "ESD7104MUTAG")(type "KiCad")(uri "${PROJECT_FILES}/Symbol/ESD7104MUTAG.kicad_sym")(options "")(descr ""))
 )
