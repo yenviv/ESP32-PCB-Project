@@ -9204,7 +9204,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 70.358 91.44 90)
 			(effects
 				(font
@@ -9274,7 +9274,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 79.7052 78.74 0)
 			(effects
 				(font
@@ -9747,7 +9747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 73.152 38.1 90)
 			(effects
 				(font
@@ -9883,7 +9883,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 75.8952 53.34 0)
 			(effects
 				(font
@@ -10017,7 +10017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ENS210-LQFM:XDCR_ENS210-LQFM"
+		(property "Footprint" "Footprint:XDCR_ENS210-LQFM"
 			(at 245.11 30.48 0)
 			(effects
 				(font
@@ -10203,7 +10203,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 183.642 107.95 90)
 			(effects
 				(font
@@ -10410,7 +10410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "6130XX11121_61302211121:61302211121"
+		(property "Footprint" "Footprint:61302211121"
 			(at 54.61 162.56 0)
 			(effects
 				(font
@@ -10673,7 +10673,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 74.422 91.44 90)
 			(effects
 				(font
@@ -11407,7 +11407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB4105-GF-A:GCT_USB4105-GF-A"
+		(property "Footprint" "Footprint:GCT_USB4105-GF-A"
 			(at 215.9 123.19 0)
 			(effects
 				(font
@@ -11561,7 +11561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "6130XX11121_61302211121:61302211121"
+		(property "Footprint" "Footprint:61302211121"
 			(at 71.12 162.56 0)
 			(effects
 				(font
@@ -11828,7 +11828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 141.9352 49.53 0)
 			(effects
 				(font
@@ -11896,7 +11896,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-100x"
 			(at 66.04 64.77 0)
 			(effects
 				(font
@@ -11970,7 +11970,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-100x"
 			(at 64.77 40.64 0)
 			(effects
 				(font
@@ -12179,7 +12179,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 272.7452 35.56 0)
 			(effects
 				(font
@@ -12447,7 +12447,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 153.3652 49.53 0)
 			(effects
 				(font
@@ -12661,7 +12661,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 191.77 116.332 90)
 			(effects
 				(font
